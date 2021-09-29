@@ -1,4 +1,4 @@
-# PH Filmes
+# PH Filmes 🎥
 
 # Sobre o projeto
 
